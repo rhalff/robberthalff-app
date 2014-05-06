@@ -6,3 +6,9 @@
 ```
 cordova create robberthalff-app
 ```
+
+[Add Android Target](https://github.com/rhalff/robberthalff-app/commit/22d89466dfdbfcdf64c3f13bc64e1526776af930)
+```
+cordova platform add android
+```
+
