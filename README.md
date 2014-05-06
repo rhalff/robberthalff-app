@@ -16,3 +16,8 @@ cordova platform add android
 ```
 yo angular robberthalff
 ```
+
+Add [grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap)
+```
+npm install grunt-angular-phonegap --save-dev
+```
