@@ -12,3 +12,7 @@ cordova create robberthalff-app
 cordova platform add android
 ```
 
+[Yo Angular](https://github.com/rhalff/robberthalff-app/commit/cd3147cf5b045a61255bbcc620bab7dc0da8d9e1)
+```
+yo angular robberthalff
+```
