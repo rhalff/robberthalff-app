@@ -26,7 +26,7 @@ npm install grunt-angular-phonegap --save-dev
 ```
 grunt phonegap:build
 cordova run android
----
+```
 
 Docs:
 
