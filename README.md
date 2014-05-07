@@ -36,5 +36,5 @@ npm install karma-jasmine --save-dev
 
 Docs:
 
-yeoman angular: https://github.com/yeoman/generator-angular
-Karma: http://karma-runner.github.io/0.12/index.html
+  - yeoman angular: https://github.com/yeoman/generator-angular
+  - Karma: http://karma-runner.github.io/0.12/index.html
