@@ -24,6 +24,12 @@ Bare Bones Project using dsimard/grunt-angular-phonegap
 
         cordova use android *or* grunt phonegap:emulate for emulation
 
+6. Send the project to remotely build at http://build.phonegap.com.
+
+```
+phonegap remote login --username you@gmail.com --password YourPassword
+grunt phonegap:send
+```
 
 ### Step 1
 
