@@ -22,6 +22,13 @@ Add [grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap)
 npm install grunt-angular-phonegap --save-dev
 ```
 
+[Build it!](https://github.com/rhalff/robberthalff-app/commit/ed3298b5d5945026256f6aa18b5fe74d786dea8c
+```
+grunt phonegap:build
+cordova run android
+---
+
 Docs:
 
 yeoman angular: https://github.com/yeoman/generator-angular
+
