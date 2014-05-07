@@ -1,4 +1,29 @@
-## Commits
+Bare Bones Project using dsimard/grunt-angular-phonegap
+
+## Usage
+
+1. Clone project
+
+2. Install npm modules
+
+        npm install
+
+3. Install bower dependencies
+
+        bower install
+
+4. Add a mobile platform
+
+        cordova platform add android
+
+4. Build the project
+
+        grunt phonegap:build
+
+5. Deploy to device
+
+        cordova use android *or* grunt phonegap:emulate for emulation
+
 
 ### Step 1
 
