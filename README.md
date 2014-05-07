@@ -28,7 +28,13 @@ grunt phonegap:build
 cordova run android
 ```
 
+Add dependencies for karma (Not automatically installed by yo angular)
+```
+npm install karma-chrome-launcher --save-dev
+npm install karma-jasmine --save-dev
+```
+
 Docs:
 
 yeoman angular: https://github.com/yeoman/generator-angular
-
+Karma: http://karma-runner.github.io/0.12/index.html
